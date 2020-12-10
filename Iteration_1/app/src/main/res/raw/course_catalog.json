@@ -1,0 +1,33 @@
+{
+  "courses": [
+    {
+      "product_id": "0001",
+      "title": "Android von Anfang an",
+      "description": "Dieser Kurs behandelt Android von Anfang an.",
+      "complexity": "low",
+      "image_file_url": ""
+    },
+    {
+      "product_id": "0002",
+      "title": "App Design",
+      "description": "In diesem Kurs geht es um die Usability von mobilen Apps.",
+      "complexity": "low",
+      "image_file_url": ""
+    },
+    {
+      "product_id": "0003",
+      "title": "Android für Fortgeschrittene",
+      "description": "Dieser Kurs macht Dich zum Experten.",
+      "complexity": "high",
+      "image_file_url": ""
+    },
+    {
+      "product_id": "0004",
+      "title": "iOS von Anfang an",
+      "description": "Entwickele Apps für die fortschritlichste Plattform der mobilen Welt.",
+      "complexity": "medium",
+      "image_file_url": ""
+    }
+  ]
+}
+

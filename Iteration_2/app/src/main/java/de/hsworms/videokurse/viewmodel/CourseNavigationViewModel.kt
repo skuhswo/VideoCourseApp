@@ -48,3 +48,5 @@ class CourseNavigationViewModel(application: Application) : AndroidViewModel(app
 
 }
 
+
+

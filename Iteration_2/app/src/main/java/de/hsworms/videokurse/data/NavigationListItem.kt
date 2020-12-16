@@ -17,3 +17,4 @@ data class NavigationListItem (
     var newSection: Boolean = false
 ) {
 }
+

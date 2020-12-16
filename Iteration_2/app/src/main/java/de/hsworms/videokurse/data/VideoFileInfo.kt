@@ -8,3 +8,5 @@ data class VideoFileInfo(
     var fileChapters: MutableList<VideoSection>
 ) {
 }
+
+

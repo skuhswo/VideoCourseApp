@@ -6,3 +6,4 @@ data class VideoSection(
     val startPos: Long = 0,
     val endPos: Long = 0
 )
+

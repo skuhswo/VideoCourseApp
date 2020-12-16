@@ -24,8 +24,6 @@ class NavigationListFragment : Fragment() {
 
     private var callbacks: Callbacks? = null
 
-    private var menu: Menu? = null
-
     private lateinit var navigationRecyclerView: RecyclerView
     private var adapter: NavigationAdapter? = null
 
@@ -43,7 +41,6 @@ class NavigationListFragment : Fragment() {
     override fun onDetach() {
         super.onDetach()
         callbacks = null
-        menu = null
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -144,3 +141,4 @@ class NavigationListFragment : Fragment() {
     }
 
 }
+

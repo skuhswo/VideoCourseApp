@@ -1,0 +1,85 @@
+{
+  "videoFiles": [
+    {
+      "videoID": "v001",
+      "fileName": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "chapters": [
+        {
+          "from": 1000,
+          "to": 10000,
+          "title": "1. Video-Sequenz"
+        },
+        {
+          "from": 10001,
+          "to": 20000,
+          "title": "2. Video-Sequenz"
+        }
+      ]
+    }
+  ],
+  "submenu": [
+    {
+      "title": "Video 1",
+      "submenu": [
+        {
+          "title": "Komplettes Video",
+          "videoID": "v001",
+          "startingPos": 0
+        },
+        {
+          "title": "Video nach Szenen",
+          "submenu": [
+            {
+              "title": "Szene 1",
+              "videoID": "v001",
+              "startingPos": 0
+            },
+            {
+              "title": "Szene 2",
+              "videoID": "v001",
+              "startingPos": 10000
+            },
+            {
+              "title": "Szene 3",
+              "videoID": "v001",
+              "startingPos": 20000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Video 2",
+      "submenu": [
+        {
+          "title": "Komplettes Video",
+          "videoID": "v001",
+          "startingPos": 0
+        },
+        {
+          "title": "Video nach Szenen",
+          "submenu": [
+            {
+              "title": "Szene 1",
+              "videoID": "v001",
+              "startingPos": 0
+            },
+            {
+              "title": "Szene 2",
+              "newSection": true,
+              "videoID": "v001",
+              "startingPos": 10000
+            },
+            {
+              "title": "Szene 3",
+              "videoID": "v001",
+              "startingPos": 20000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+

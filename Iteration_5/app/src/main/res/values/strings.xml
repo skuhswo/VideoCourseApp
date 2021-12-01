@@ -1,0 +1,12 @@
+<resources>
+    <string name="hstr_1" />
+    <string name="app_name">Videokurse</string>
+    <string name="text_my_course">Mein Kurs</string>
+    <string name="text_my_courses">Meine Kurse</string>
+    <string name="text_more_courses">Weitere Kurse</string>
+    <string name="toolbar_title_main">HS Worms Videokurse</string>
+    <string name="about_string">Über diese App</string>
+    <string name="contact_string">Kontakt</string>
+    <string name="data_protection_string">Datenschutz</string>
+    <string name="impress_string">Impressum</string>
+</resources>

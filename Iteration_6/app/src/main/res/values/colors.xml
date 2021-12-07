@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">@color/petrol_dark</color>
+    <color name="color_on_primary">@color/white</color>
+    <color name="color_secondary">@color/grey</color>
+    <color name="color_on_secondary">@color/white</color>
+    <color name="color_accent">@color/grey_light</color>
+
+    <color name="blue_dark">#020873</color>
+    <color name="grey_light">#C7C7C7C7</color>
+    <color name="petrol_dark">#043959</color>
+    <color name="black">#FF000000</color>
+    <color name="grey">#737373</color>
+    <color name="white">#FFFFFF</color>
+</resources>
+
+

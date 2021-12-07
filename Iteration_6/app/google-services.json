@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207492778471",
+    "project_id": "videokurse",
+    "storage_bucket": "videokurse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207492778471:android:14d614981821d24f839542",
+        "android_client_info": {
+          "package_name": "de.hsworms.videokurse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207492778471-bqvkivdr8anc83rp8bb1q39ld7s1ej40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5pAT4YSSUBCWHydZVJ9DCnbYqL2J5RSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207492778471-bqvkivdr8anc83rp8bb1q39ld7s1ej40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
